@@ -1,6 +1,7 @@
 # multer-pdf-password
 
 ```
+npm install
 node server.js
 ```
 
